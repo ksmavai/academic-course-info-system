@@ -1,6 +1,6 @@
 # academic course info system
 
-you've probably seen how a lot of people share notes on studocu to get access to other notes. i have a carleton engineering server with thousands of studenta, and had the idea for students to share notes with one another seamlessly. however, i wanted to prevent students from using other students' notes for their own personal gain off websites like studocu.
+you've probably seen how a lot of people share notes on studocu to get access to other notes. i have a carleton engineering server with thousands of students, and had the idea for students to share notes with one another seamlessly. however, i wanted to prevent students from using other students' notes for their own personal gain off websites like studocu.
 
 so i made a discord bot for academic communities that helps students share notes securely with watermarking, get course information, and additionally chat with an AI that matches your vibe. built for carleton university but is adaptable to any school.
 
