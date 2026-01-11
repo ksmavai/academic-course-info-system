@@ -1,0 +1,285 @@
+{
+    "ecor1031": {
+        "name": "Programming & Data Management",
+        "year": "1st Year",
+        "review": "3.75/5",
+        "notes": "Combines computation/programming and data management using Python. Covers basics and progresses to structured data management. The group project can be variable—requires good communication. Pytutor visualizer is used; supplemental YouTube and textbook practice are recommended. Practice coding regularly, especially if you have no prior experience. Modern delivery emphasizes technical proficiency and teamwork."
+    },
+    "ecor1032": {
+        "name": "Circuits & Mechatronics",
+        "year": "1st Year",
+        "review": "3.5/5",
+        "notes": "Covers basic electrical concepts such as voltage, power, Thevenin’s theorem, and conservation laws, combined with mechatronics labs and theory (boolean algebra, logic gates). Labs are approachable if you prepare, and both courses emphasize the importance of practice and resource use. Make sure to study theory and make use of materials provided by the professors. Lectures can be boring in mechatronics but labs are cool."
+    },
+    "ecor1033": {
+        "name": "Statics & Mechanics",
+        "year": "1st Year",
+        "review": "3.25/5",
+        "notes": "Focuses on statics (forces, equilibrium, basic physics concepts) and mechanics (analysis of structures and machines, truss analysis, stress and strain). Practice with manual and video solutions is crucial, especially if you struggled in high school physics. Group communication and project work are important, particularly for the mechanics section. 'Warren with verticals' project is recommended. Mastering truss analysis will aid evaluations."
+    },
+    "ecor1034": {
+        "name": "Visual Communication & Dynamics",
+        "year": "1st Year",
+        "review": "2.5/5",
+        "notes": "Combines skills in visual communication (engineering drawing, visualization, concepts) with dynamics (motion, forces). Visual communication is generally straightforward unless you struggle with drawing; practice and resource use help. Dynamics tends to be less popular and can be tricky—especially for non-aerospace students. Seek help if needed and make use of course resources for both parts."
+    },      
+    "ecor1057": {
+        "name": "Engineering Profession",
+        "year": "1st Year",
+        "review": "4.5/5",
+        "notes": "Easy online course, just don't forget to do it throughout the semester! Easy quizzes as well."
+    },
+    "ecor1055": {
+        "name": "Introduction to Engineering Disciplines I",
+        "year": "1st Year",
+        "review": "4/5",
+        "notes": "Meh not much to say about this, not bad as long as you pay some attention. Not a worrisome course."
+    },
+    "ecor1056": {
+        "name": "Introduction to Engineering Disciplines II",
+        "year": "1st Year",
+        "review": "4.5/5",
+        "notes": "Easy online course, just don't forget to do it throughout the semester! Easy quizzes as well."
+    },
+    "math1004": {
+        "name": "Calculus for Engineering Students",
+        "year": "1st Year",
+        "review": "3.5/5",
+        "notes": "Not a bad continuation from high school calculus. Evaluations can be somewhat annoying but practicing can be very useful. Only go to lectures if you understand the concepts and the professor's teaching. Otherwise, self-learning is what will help you in this course. Don't shy away from attending other professor's lectures if needed, there tend to be several. Heavily recommend textbook and online videos, check pinned messages for this course's channel."
+    },
+    "math1104": {
+        "name": "Linear Algebra for Engineering Students",
+        "year": "1st Year",
+        "review": "3.5/5",
+        "notes": "Good course, can be annoying at times with certain concepts. Textbook can prove to be very supplemental towards understanding. Videos as well, at times. Prepare yourself well for the tests, as you wouldn't wanna bank your marks on the final, which tends to consist of a lot of multiple choice questions accompanied with long answer questions."
+    },
+    "chem1101": {
+        "name": "Chemistry for Engineering Students",
+        "year": "1st Year",
+        "review": "3.5/5",
+        "notes": "This course's review would be a 4 if Pamela Wolff were still teaching, as she's a wonderful and very understanding professor for this course. Nevertheless, not a hard course really, labs are annoying especially if you have them at 8:30 AM. Beyond labs the evaluations in this course are very relevant to the course content, practice is highly suggested for those who find themselves lacking in Chemistry. Watch YouTube videos if ever needed."
+    },
+    "phys1004": {
+        "name": "Introductory Electromagnetism & Wave Motion",
+        "year": "1st Year",
+        "review": "2.5/5",
+        "notes": "Course is okay, but can be very tiresome and hard to understand at times. Not the best experience for those who dislike physics. Nevertheless, labs can occasionally be alright, ensure to get as many marks as you can on them. Do make sure to study off the lecture slides and textbook and whatever resources can possibly help you the best for this course, as some tend to find the course confusing at certain points during the semester."
+    },
+    "math1005": {
+        "name": "Differential Equations & Infinite Series for Engineering Students",
+        "year": "2nd Year",
+        "review": "3.5/5",
+        "notes": "Lots of differential equations, series' to learn, amongst other things. Not a bad course but practice is what will help you here. Builds upon MATH1004 to some extent, not much relevant to MATH1104."
+    },
+    "math2004": {
+        "name": "Multivariable Calculus for Engineering Students",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Course starts with familiar vector concepts but gets challenging with Green's/Stokes theorems later. Lectures don't always align with textbook order, making self-study essential. YouTube resources highly recommended since lectures move quickly. Course considered manageable but becomes an annoyance when juggling with other major courses."
+    },
+    "math3705": {
+        "name": "Mathematical Methods 1",
+        "year": "3rd Year",
+        "review": "2.5/5",
+        "notes": "Heavy focus on series and Laplace transforms. Lectures can be dry and hard to follow. Tests are apparently not multiple choice but require deep understanding. Professor Cova is highly rated but material is challenging. Formula sheet provided but still requires significant practice. First test tends to be easiest, gets progressively harder. Final exam is usually all MCQ."
+    },
+    "sysc4602": {
+        "name": "Computer Communications",
+        "year": "4th Year",
+        "review": "2.5/5",
+        "notes": "Course tends to have very low-weighted assignments (1%) despite requiring significant effort. Professor Ibn Kahla's lectures can be dry but content is straightforward. Final exam tends to be challenging with many students struggling. Labs are time-consuming but manageable. Course heavily focuses on networking protocols and data transmission methods. Highly recommend thorough textbook reading since lectures don't cover everything tested."
+    },
+    "sysc2006": {
+        "name": "Foundation of Imperative Programming",
+        "year": "2nd Year",
+        "review": "2.5/5",
+        "notes": "C- needed in this course if you'll be taking SYSC2100 the following semester. Not too bad before the midterm, but ramps up quickly in content and understanding after with concepts such as linked lists and stacks/queues and hashmaps. Unless you have a good understanding already for this course, practice is the only thing that'll help you out. Marking is not as lenient as one may think, unless you know what you're doing. Labs are easy, assignments are okay."
+    },
+    "sysc2310": {
+        "name": "Introduction to Digital Systems",
+        "year": "2nd Year",
+        "review": "4/5",
+        "notes": "Fairly easy course, pretty much ECOR1044 but just slightly harder. Content gets harder after the midterm so do make sure to attend lectures after the midterm. Professor Gomar is wonderful for this course, do reach out to her whenever you need assistance in any aspect of your understanding in the course. Lots of multiple choice questions for both the midterm and the final, but don't let that information undermine your need of practice in this course. Labs are really not that bad as long as you know what you're doing."
+    },
+    "elec2501": {
+        "name": "Circuits & Signals",
+        "year": "2nd Year",
+        "review": "2/5",
+        "notes": "Fan-favourite of software engineering students (/j). Course is okay but is highly intensive in understanding, which is where practice is the only thing that can be of help. Course is pretty much a slightly higher version of ECOR1043 in the first half, and ECOR1043 on steroids in the second half. The least-favoured professor for this course has retired but nevertheless do make sure to practice as much as you can, especially with the textbook."
+    },
+    "comp1805": {
+        "name": "Discrete Structures I",
+        "year": "2nd Year",
+        "review": "3.5/5",
+        "notes": "Yet another course where you'll be wondering 'Why am I doing this?', especially since you're probably in Software Engineering. Computer Science students share this course with Software Eng. students as well. Not a bad course but hard to keep track off if you remain inconsistent in practice and studying. Feel free to ask the professor questions whenever you get confused, and do review from time-to-time to have a complete understanding of what this course is like. Professor Alexa Sharp highly recommended for this course."
+    },
+    "sysc2004": {
+        "name": "Object-Oriented Software Development",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Good course but highly dependant on the professor. Professor Sabouni is highly recommended for this course, whilst Professor Bedawi and Professor Marshall are not exactly the best. Course is pretty straightforward with the content is easy to grasp, however evaluations can be particularly tricky at times. Labs are fine, but slightly time-consuming. Be sure to watch videos on any concept where you remain confused in this course, as it tends to somewhat build upon itself."
+    },
+    "sysc2100": {
+        "name": "Algorithms and Data Structures",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Course focuses heavily on Python programming and data structures implementation. While the content is pretty straightforward, lecture attendance is highly suggested. Labs require significant debugging time but are manageable. Tests tend to be multiple choice with some coding questions. Course builds significantly on ECOR1042 concepts. Practice problems essential for success."
+        },
+    "sysc2320": {
+        "name": "Computer Organization & Architecture",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Professor Ramy Gohary is a wonderful professor for this course, although he does despise phone usage. Hard to keep track of if you miss any lectures, so do be sure to visit all lectures under any cost. Lecture slides in this course will never be enough to fully comprehend the material. Study past exams and material to ensure a proficient understanding of the course, and never hesitate to ask the professor any questions as this course can be quite confusing at certain points."
+    },
+    "sysc3006": {
+        "name": "Computer Organization & Architecture",
+        "year": "3rd Year",
+        "review": "3/5",
+        "notes": "Professor Ramy Gohary is a wonderful professor for this course, although he does despise phone usage. Hard to keep track of if you miss any lectures, so do be sure to visit all lectures under any cost. Lecture slides in this course will never be enough to fully comprehend the material. Study past exams and material to ensure a proficient understanding of the course, and never hesitate to ask the professor any questions as this course can be quite confusing at certain points."
+    },
+    "ecor3800": {
+        "name": "Engineering Economics",
+        "year": "3rd Year",
+        "review": "2.5/5",
+        "notes": "Course content is straightforward but assignments are pretty long and time-consuming. Aim to do better on the final exam as it can help your mark if you didn't do that well on the rest of the course. Course focuses heavily on cash flows, depreciation methods, and interest rate calculations. Most students pretty much find the content manageable, the workload and assessment style is what makes it challenging."
+    },
+    "maae2700": {
+        "name": "Engineering Materials",
+        "year": "2nd Year",
+        "review": "2.5/5",
+        "notes": "Course content is straightforward but made significantly harder by teaching approach. Labs can be very time-consuming. Midterm happens to have a lot of theory, with calculations as well ofc. Formula sheet tends to be allowed for final but must be handwritten. Course has significant content overlap with MATH2004, especially for triple integrals. Thorough textbook reading highly recommended since lectures wouldn't cover everything tested."
+    },
+    "maae2400": {
+        "name": "Thermodynamics & Heat Transfer",
+        "year": "2nd Year",
+        "review": "2.5/5",
+        "notes": "Course content is manageable but professor's teaching style can make it challenging. Wiley assignments are mandatory and time-consuming. Labs are straightforward but reports take significant effort. Final exam is usually multiple choice with property tables provided. The pinned resources in the channel are highly recommended for supplementary learning."
+    },
+    "maae2300": {
+        "name": "Fluid Mechanics I",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Usually two midterms for this course, both are a bit difficult. Labs are time-consuming with extensive reports. Final exam typically mostly multiple choice with equation sheet provided. Professor Mehdi is highly rated by students for this course. The pinned resources in the channel are highly recommended for supplementary learning."
+    },
+    "maae2202": {
+        "name": "Mechanics of Solids I",
+        "year": "2nd Year",
+        "review": "2/5",
+        "notes": "Professor Jie Liu's sections tend to struggle a bit with the final exam. Labs are straightforward, but reports can take significant effort. Final tends to mostly consist of multiple choice questions. Professor Rong Liu (not to be mistaken with Jie Liu) is highly recommended by students. Course isn't that bad but do look into the resources pinned into the channel, they can be of great use."
+    },
+    "maae2101": {
+        "name": "Engineering Dynamics",
+        "year": "2nd Year",
+        "review": "2.5/5",
+        "notes": "Course content is straightforward but made challenging by teaching style and assessment format. Professor Hayes/Cyr sections usually have multiple choice exams with part marks for work shown. Course has heavy emphasis on relative motion and 3D dynamics in later chapters, so do pay attention to those. Professor Karen Taylor's sections tend to be more difficult with lower averages. The pinned resources are highly recommended since lectures move quickly."
+    },
+    "maae2001": {
+        "name": "Engineering Graphical Design",
+        "year": "2nd Year",
+        "review": "2/5",
+        "notes": "CATIA software is required for this course, most students say it's better than Fusion360 for this course anyway. DG (Descriptive Geometry) labs are time-consuming and confusing for many, giving them a rough time, so do practice them. Final exam format is typically 30-40 MCQ and 4 drawings. Professor Pakeeza gets poor reviews for the most part for this course."
+    },
+    "comp2804": {
+        "name": "Discrete Structures II",
+        "year": "2nd Year",
+        "review": "3.5/5",
+        "notes": "Surprisingly different from COMP1805, this course is a bit more difficult in terms of understanding, but easier for practice. Studying with others may be extremely beneficial for this course, particularly for comprehending the assignments. Would heavily recommend doing past midterms and finals, as questions tend to always have a recurring similar pattern on the evaluations for this course every year."
+    },
+    "ccdp2100": {
+        "name": "Communication Skills for Engineering Students",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Thought you were done with presentations in high school? Unfortunately not. This course can be a GPA boost for most individuals, but just a pain in the butt for the most part given its lengthy and time-consuming tasks. As long as you regularly do your assignments adequately and prepare yourself for the day of the presentation, you're bound to get at LEAST a decent mark of B/B- in this course. Do not have Professor Anacleto for this course. "
+    },
+    "ecor2050": {
+        "name": "Design & Analysis of Engineering Experiments",
+        "year": "2nd/3rd Year",
+        "review": "4/5",
+        "notes": "Professor Shams is one of the loveliest professors you could have in engineering, especially for this course. While concepts can be mostly boring and seemingly redundant, the course itself is pretty easy to comprehend and study. Be sure to practice every now and then throughout the semester. Midterm and final are both not bad as long as you've adequately studied and know what you're doing and the concepts that have been mainly looked at (ANOVA, etc.)"
+    },
+    "sysc2510": {
+        "name": "Probability, Statistics and Random Processes for Engineers",
+        "year": "2nd Year",
+        "review": "2/5",
+        "notes": "Professor Said makes the course significantly harder than previous offerings, with complex math like triple integrals appearing on exams. Course content is usually poorly explained with minimal practice resources provided. Final exam tends to be pretty difficult. Python/MATLAB is heavily recommended over R for assignments. Previous prof Chao Shen made the course much easier."
+    },
+    "sysc4001": {
+        "name": "Operating Systems",
+        "year": "3rd Year",
+        "review": "1.5/5",
+        "notes": "Professor Wainer's lectures are mostly theory while assignments require extensive C++/C coding (LOTS of hours each). Evaluations for this course tend to be quite difficult, lots of preparation is necessary. Course tends to have strict requirements including 60% minimum on final. Course content is challenging but made significantly harder by teaching style and organization, especially by Professor Wainer."
+    },
+    "elec2507": {
+        "name": "Electronics I",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Professor Masum Hossain makes the course content approachable with a pretty generous grading scheme and clear explanations. Labs are poorly organized and time-consuming, with inconsistent TA quality being a major issue for some time now. Course focuses on transistors, op-amps, and basic circuit analysis. Multiple requirements to pass but professor is very lenient with grading and provides extensive practice resources."
+    },
+    "elec2607": {
+        "name": "Switching Circuits",
+        "year": "2nd Year",
+        "review": "3/5",
+        "notes": "Course focuses heavily on digital logic and Verilog HDL programming. Labs are straightforward but time-consuming with pre-lab work required. Tests are multiple choice with some coding questions. Contrary to ELEC2501, which is hard but can be done well with hard work and practice, this course can come off pretty confusing even with some practice. Lots of practice essential for success. Attending lectures highly recommended. Professor provides good examples in class but labs can be confusing."
+    },
+    "elec2602": {
+        "name": "Electric Machines and Power",
+        "year": "2nd Year",
+        "review": "1.5/5",
+        "notes": "Professor Barry Syrett's teaching style makes the course significantly harder than necessary. Course has heavy focus on physics concepts but lectures move at breakneck speed with poor explanations. Labs are worth only 10% but are time-consuming. Multiple choice questions on tests are notoriously difficult with obscure content. Final exam tends to have many students struggling. Professor Syrett provides minimal practice resources and gets upset about students taking pictures of slides."
+    },
+    "elec3908": {
+        "name": "Physical Electronics",
+        "year": "3rd Year",
+        "review": "2/5",
+        "notes": "Course content focuses heavily on semiconductor physics and device fabrication processes. Professor's teaching style makes complex concepts difficult to grasp. Labs are straightforward but reports take significant effort. Midterm heavily focused on IC fabrication processes and theory questions. Final exam tends to be pretty challenging with many students struggling. Heavily recommend thorough textbook reading since lectures don't cover everything tested."
+    },
+    "elec3605": {
+        "name": "Electronic Circuits",
+        "year": "3rd Year",
+        "review": "3.5/5",
+        "notes": "Professor Steele's teaching style makes the course content easy to understand. Online notes are simple and well-organized, with supplementary video content usually provided. Tests are multiple choice but require showing work for part marks. Course content is straightforward but builds significantly on previous circuit analysis concepts. Not that bad of a course."
+    },
+    "elec3105": {
+        "name": "Basic EM & Power Engineering",
+        "year": "3rd Year",
+        "review": "1.5/5",
+        "notes": "Professor's teaching style makes the course much harder than necessary, with excessive time spent on basic vector reviews and unclear explanations. Course can sometimes be behind schedule, often teaching concepts a few weeks after they're needed for labs. Labs involve several iteration Excel sheets and are poorly organized. Final exam was particularly difficult with many students struggling even after 2 hours. Course considered one of the fundamental EE courses but teaching approach makes it unnecessarily complicated."
+    },
+    "elec3509": {
+        "name": "Electronics II",
+        "year": "3rd Year",
+        "review": "2/5",
+        "notes": "Labs are extremely time-consuming with extensive pre-lab work required. Professor's teaching style makes complex concepts harder than necessary. Checkout system can sometimes be problematic with strict requirements and short lab times. Tests focus heavily on BJT amplifier calculations. Not a hard course just wastes your time quite a bit."
+    },
+    "sysc3600": {
+        "name": "Systems and Simulation",
+        "year": "3rd Year",
+        "review": "3/5",
+        "notes": "Course content is manageable but professor Rossa is highly recommended over other sections. Labs are straightforward with Simulink/MATLAB but can be time-consuming. Tests require deep understanding with midterms getting progressively harder."
+    },
+    "sysc3310": {
+        "name": "Introduction to Real-Time Systems",
+        "year": "3rd Year",
+        "review": "2.5/5",
+        "notes": "Professor Sabouni's lectures can be dry but content is straightforward. Labs tend to require significant time. Assignments are time-consuming with heavy C++ coding. Overall the course isn't the hardest course ever though, at least in third year SYSC. IDE setup can be problematic for M1/M2 Mac users."
+    },
+    "sysc3020": {
+        "name": "Introduction to Software Engineering",
+        "year": "3rd Year",
+        "review": "2.5/5",
+        "notes": "Course is extremely dry with heavy focus on UML diagrams and software development processes. Assignments usually require extensive use case diagrams with 10+ cases being common. Professor's teaching style makes content feel disconnected from practical applications. Final exam tends to cover basically everything in the course. Practice questions are similar to labs but limited study resources are provided. Course content straightforward but presentation makes it tedious."
+    },
+    "sysc3110": {
+        "name": "Software Design Project",
+        "year": "3rd Year",
+        "review": "2.5/5",
+        "notes": "Course has a major group project worth 40% of final grade. Midterm tends to be challenging with many students struggling on layout questions, as tends to be the case for the final. Course content is straightforward but project workload is significant. BE SURE TO HAVE A GOOD TEAM FOR THE PROJECT! Final exam format similar to midterm with focus on Java implementation."
+    },
+    "sysc3120": {
+        "name": "Software Requirements Engineering",
+        "year": "3rd Year",
+        "review": "4/5",
+        "notes": "Easy course, boring execution. While the course content remains fairly easy to comprehend and straightforward, especially before the midterm, taking notes in your own time can prove to be very supplemental. Lectures can be boring but not that bad, especially if Professor Jaskolka is teaching this course. Be sure to study for the final as it may come off as a surprise as to what the material on it will be."
+    }
+}
+
