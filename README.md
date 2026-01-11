@@ -1,6 +1,8 @@
-# academic student system
+# academic course info system
 
-a discord bot for academic communities that helps students share notes securely with watermarking, get course information, and chat with an AI that matches your vibe. built for **carleton university** but adaptable to any school.
+you've probably seen how a lot of people share notes on studocu to get access to other notes. i have a carleton engineering server with thousands of studenta, and had the idea for students to share notes with one another seamlessly. however, i wanted to prevent students from using other students' notes for their own personal gain off websites like studocu.
+
+so i made a discord bot for academic communities that helps students share notes securely with watermarking, get course information, and additionally chat with an AI that matches your vibe. built for carleton university but is adaptable to any school.
 
 ## 🚀 key features
 
@@ -16,7 +18,7 @@ a discord bot for academic communities that helps students share notes securely 
 *   **discord.py**
 *   **pypdf / reportlab** (pdf watermarking)
 *   **deepseek api** (ai chat)
-*   **perplexity api** (web search, optional)
+*   **perplexity api** (web search)
 *   **sqlite** (database)
 
 ## 🏃‍♂️ how to run
@@ -55,6 +57,8 @@ a discord bot for academic communities that helps students share notes securely 
 
 ## 📖 commands
 
+there's a lot of silly other commands but below are the main ones
+
 | command | description |
 |---------|-------------|
 | `/upload` | upload a pdf to share with the community |
@@ -70,9 +74,9 @@ create these files to customize how the ai responds:
 **`personality_prompt.txt`** - define the vibe (example):
 ```
 CRITICAL RULES:
-1. Keep responses SHORT (1-10 words)
-2. Use lowercase most of the time
-3. Be chill, not overly formal
+1. Keep responses SHORT (5-20 words)
+2. Refrain from using emojis
+3. Be polite and chill, not overly formal
 ```
 
 **`style_prompt.txt`** - define vocabulary (example):
